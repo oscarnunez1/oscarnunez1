@@ -25,19 +25,19 @@ So take a look around, explore my repositories, and feel free to reach out if yo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oscarnunez34/">
-    <img src="https://img.shields.io/badge/-oscarnunez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: oscarnunez"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   &nbsp;
   <a href="https://github.com/oscarnunez1">
-    <img src="https://img.shields.io/badge/GitHub-oscarnunez-black?style=flat-square&logo=github" alt="GitHub: oscarnunez"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="mailto:oscar.nunezcaba@gmail.com">
-    <img src="https://img.shields.io/badge/-oscarnunez-yellow?style=flat&logo=google-messages&logoColor=white" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
   </a>
   &nbsp;
   <a href="https://oscarnunez-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-oscarnunez-blueviolet?style=flat-square&logo=appveyor" alt="Portfolio: oscarnunez"/>
+    <img src="https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
