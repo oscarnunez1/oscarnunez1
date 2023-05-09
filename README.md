@@ -10,6 +10,7 @@ So take a look around, explore my repositories, and feel free to reach out if yo
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnunez1&layout=compact)](https://github.com/oscarnunez1/github-readme-stats)
 
+<hr>
 
 **Technologies:**
 
