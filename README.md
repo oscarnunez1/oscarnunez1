@@ -23,8 +23,15 @@ So take a look around, explore my repositories, and feel free to reach out if yo
   <h1>Get In Touch!:</h1>
 </div>
 
-[![Linkedin: oscarnunez](https://img.shields.io/badge/-oscarnunez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarnunez/)](https://www.linkedin.com/in/oscarnunez/)[![GitHub oscarnunez](https://img.shields.io/github/followers/oscarnunez?label=follow&style=social)](https://github.com/oscarnunez1)
-
+<div align="center">
+    [![Linkedin: oscarnunez](https://img.shields.io/badge/-oscarnunez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarnunez/)](https://www.linkedin.com/in/oscarnunez34/)
+    &nbsp;
+    [![GitHub: oscarnunez](https://img.shields.io/badge/GitHub-oscarnunez-black?style=flat-square&logo=github)](https://github.com/oscarnunez1)
+    &nbsp;
+    [![Mail Badge](https://img.shields.io/badge/-oscarnunez-yellow?style=flat&logo=google-messages&logoColor=white&link=mailto:oscarnunez@gmail.com)](mailto:oscar.nunezcaba@gmail.com)
+    &nbsp;
+    [![Portfolio: oscarnunez](https://img.shields.io/badge/Portfolio-oscarnunez-blueviolet?style=flat-square&logo=appveyor)](https://oscarnunez-portfolio.netlify.app/)
+</div>
 
 
 <hr>
