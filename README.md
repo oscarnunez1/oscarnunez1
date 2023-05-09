@@ -11,6 +11,8 @@
 
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnunez1&layout=compact)](https://github.com/oscarnunez1/github-readme-stats)
 
+</div>
+
   **Technologies:**
 
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,4 +52,3 @@
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
     ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
-</div>
