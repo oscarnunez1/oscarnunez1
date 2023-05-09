@@ -9,7 +9,6 @@ So take a look around, explore my repositories, and feel free to reach out if yo
 <hr>
 
 [![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscarnunez1&show_icons=true&theme=radical)](https://github.com/oscarnunez1/github-readme-stats) 
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnunez1&layout=compact)](https://github.com/oscarnunez1/github-readme-stats)
 
 <hr>
