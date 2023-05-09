@@ -23,16 +23,23 @@ So take a look around, explore my repositories, and feel free to reach out if yo
   <h1>Get In Touch!:</h1>
 </div>
 
-<div align="center">
-    [![Linkedin: oscarnunez](https://img.shields.io/badge/-oscarnunez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarnunez/)](https://www.linkedin.com/in/oscarnunez34/)
-    &nbsp;
-    [![GitHub: oscarnunez](https://img.shields.io/badge/GitHub-oscarnunez-black?style=flat-square&logo=github)](https://github.com/oscarnunez1)
-    &nbsp;
-    [![Mail Badge](https://img.shields.io/badge/-oscarnunez-yellow?style=flat&logo=google-messages&logoColor=white&link=mailto:oscarnunez@gmail.com)](mailto:oscar.nunezcaba@gmail.com)
-    &nbsp;
-    [![Portfolio: oscarnunez](https://img.shields.io/badge/Portfolio-oscarnunez-blueviolet?style=flat-square&logo=appveyor)](https://oscarnunez-portfolio.netlify.app/)
-</div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/oscarnunez34/">
+    <img src="https://img.shields.io/badge/-oscarnunez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: oscarnunez"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/oscarnunez1">
+    <img src="https://img.shields.io/badge/GitHub-oscarnunez-black?style=flat-square&logo=github" alt="GitHub: oscarnunez"/>
+  </a>
+  &nbsp;
+  <a href="mailto:oscar.nunezcaba@gmail.com">
+    <img src="https://img.shields.io/badge/-oscarnunez-yellow?style=flat&logo=google-messages&logoColor=white" alt="Mail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://oscarnunez-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-oscarnunez-blueviolet?style=flat-square&logo=appveyor" alt="Portfolio: oscarnunez"/>
+  </a>
+</p>
 
 <hr>
 
