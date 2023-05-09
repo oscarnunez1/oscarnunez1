@@ -15,7 +15,7 @@ So take a look around, explore my repositories, and feel free to reach out if yo
 <hr>
 
 <div align="center">
-  **Languages, Frameworks, Libraries & Tools:**
+  ** Languages, Frameworks, Libraries & Tools:
 </div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
