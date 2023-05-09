@@ -20,6 +20,16 @@ So take a look around, explore my repositories, and feel free to reach out if yo
 <hr>
 
 <div align="center">
+  <h1>Get In Touch!:</h1>
+</div>
+
+[![Linkedin: oscarnunez](https://img.shields.io/badge/-oscarnunez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscarnunez/)](https://www.linkedin.com/in/oscarnunez/)[![GitHub oscarnunez](https://img.shields.io/github/followers/oscarnunez?label=follow&style=social)](https://github.com/oscarnunez1)
+
+
+
+<hr>
+
+<div align="center">
   <h1>Languages, Frameworks, Libraries & Tools:</h1>
 </div>
 
