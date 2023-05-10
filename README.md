@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Oscar!
 
-Welcome to my GitHub, where code meets creativity and imagination knows no bounds. I am a proud graduate of General Assembly's Software Engineering Immersive and a passionate software developer who believes in the power of technology to change the world for the better. With my skills and expertise, I strive to make a difference in people's lives by creating innovative solutions to real-world problems.
+Welcome to my GitHub! I am a full-stack software engineer and a proud graduate of General Assembly's Software Engineering Immersive. My journey in the tech field has been fueled by a blend of analytical thinking, attention to detail, and a creative spirit that loves to innovate.
 
-The rigorous training at General Assembly has honed my ability to adapt to new environments, learn quickly, and thrive in fast-paced, agile development settings. It has further underscored my agility and aptitude for learning, equipping me with a robust foundation in multiple tech stacks.
+My experience spans across various facets of software development, with a keen focus on creating cutting-edge applications. The ability to rapidly learn and adapt to new environments and challenges is one of my strengths, and it's something I take great pride in.
 
-When I'm not writing code, you can find me taking photos, flying drones, writing articles on architecture and construction, playing guitar, or traveling. I am a firm believer in the importance of balance, and I strive to maintain a healthy work-life balance that allows me to pursue my passions and maintain my creativity.
+When I'm not immersed in code, my interests range from photography and drone flying, to writing about architecture and construction, playing the guitar, and traveling. I firmly believe in the power of balance, striving to blend my professional pursuits with personal passions.
 
-So take a look around, explore my repositories, and feel free to reach out if you want to collaborate or just chat about technology and its limitless possibilities. Let's build something great together!
+Feel free to delve into my repositories, and reach out if you're interested in collaboration, or simply wish to chat about the infinite possibilities that technology holds. Let's create something extraordinary together!
 
 <hr>
 
