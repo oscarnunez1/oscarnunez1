@@ -124,6 +124,11 @@ So take a look around, explore my repositories, and feel free to reach out if yo
 <a href="#">
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API"/>
 </a>
-&nbsp; 
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion"/>
+</a>
+&nbsp;
+   
 
 </div>
