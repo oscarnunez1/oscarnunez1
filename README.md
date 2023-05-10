@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Oscar!
+# Hi there 👋 I'm Oscar!
 
 Welcome to my GitHub! I am a full-stack software engineer and a proud graduate of General Assembly's Software Engineering Immersive. My journey in the tech field has been fueled by a blend of analytical thinking, attention to detail, and a creative spirit that loves to innovate.
 
