@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Oscar!
 
-Welcome to my GitHub, where code meets creativity and imagination knows no bounds. I am a passionate software developer who believes in the power of technology to change the world for the better. With my skills and expertise, I strive to make a difference in people's lives by creating innovative solutions to real-world problems.
+Welcome to my GitHub, where code meets creativity and imagination knows no bounds. I am a proud graduate of General Assembly's Software Engineering Immersive and a passionate software developer who believes in the power of technology to change the world for the better. With my skills and expertise, I strive to make a difference in people's lives by creating innovative solutions to real-world problems.
 
-When I'm not writing code, you can find me the taking photos, flying drones, writing articles on architecture and construction, playing guitar, or traveling. I am a firm believer in the importance of balance, and I strive to maintain a healthy work-life balance that allows me to pursue my passions and maintain my creativity.
+The rigorous training at General Assembly has honed my ability to adapt to new environments, learn quickly, and thrive in fast-paced, agile development settings. It has further underscored my agility and aptitude for learning, equipping me with a robust foundation in multiple tech stacks.
+
+When I'm not writing code, you can find me taking photos, flying drones, writing articles on architecture and construction, playing guitar, or traveling. I am a firm believer in the importance of balance, and I strive to maintain a healthy work-life balance that allows me to pursue my passions and maintain my creativity.
 
 So take a look around, explore my repositories, and feel free to reach out if you want to collaborate or just chat about technology and its limitless possibilities. Let's build something great together!
 
